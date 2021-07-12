@@ -1,4 +1,11 @@
-### Hi there 👋
+# Luis Pedro Coelho
+
+- My personal website: [http://luispedro.org/](http://luispedro.org/)
+- My newsletter: [https://luispedro.substack.com/](https://luispedro.substack.com/)
+- My Twitter profile: [@luispedrocoelho](https://twitter.com/luispedrocoelho)
+- My Google Scholar: [https://scholar.google.com/citations](https://scholar.google.com/citations?hl=en&user=qTYua0cAAAAJ)
+
+
 
 <!--
 **luispedro/luispedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
