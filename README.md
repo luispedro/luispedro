@@ -1,6 +1,6 @@
 # Luis Pedro Coelho
 
-- My personal website: [http://luispedro.org/](http://luispedro.org/)
+- My personal website: [https://luispedro.org/](http://luispedro.org/)
 - My newsletter: [https://luispedro.substack.com/](https://luispedro.substack.com/)
 - My Twitter profile: [@luispedrocoelho](https://twitter.com/luispedrocoelho)
 - My Google Scholar: [https://scholar.google.com/citations](https://scholar.google.com/citations?hl=en&user=qTYua0cAAAAJ)
